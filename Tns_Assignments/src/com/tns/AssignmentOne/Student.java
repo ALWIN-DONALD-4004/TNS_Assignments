@@ -1,7 +1,7 @@
 package com.tns.AssignmentOne;
 import java.util.*;
 public class Student {
-	 private String sname;
+	   private String sname;
 	   private String rollno;
 	   private String grade;
 	   private float percent;
